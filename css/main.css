@@ -1,4 +1,10 @@
 /* Place CSS styles here */
 body {
     background-color: blueviolet;
+    .satisfy-regular {
+        font-family: "Satisfy", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
 }
